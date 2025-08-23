@@ -1,65 +1,92 @@
-# Claude Code Configuration
-
-## Slash Commands
-
-### `/li` - LinkedIn Content Generator
-
-Automated LinkedIn content creation following the established workflow:
-
-1. **Lists available topics** from the `Clippings/` folder
-2. **Handles user selection** and reads content (including files with special characters)
-3. **Applies LinkedIn Post template** with all formatting rules:
-   - 5 content styles (Steps, Stats, Mistakes, Lessons, Examples)
-   - Hook structure (first 200 characters)
-   - Skimmable headers with alternating formats
-   - Sell-the-reader introductions
-   - 2,800 character limit (non-negotiable)
-4. **Saves final content** to `final drafts/` folder
-5. **Archives source material** to `used/` folder
-
-### `/sf` - Short Form Content Generator
-
-Automated short-form social media content creation:
-
-1. **Lists available topics** from the `Clippings/` folder
-2. **Handles user selection** and reads content (including files with special characters)
-3. **Generates 5 Twitter/X posts** using Short Form template:
-   - 8:30am PT: Paragraph Style (declarative perspective)
-   - 11am PT: What/How/Why (hook + bullets + insight)
-   - 1pm PT: Listicle (list of tangible items)
-   - 3:30pm PT: Old vs New (comparison format)
-   - 7pm PT: 10 Magical Ways (tips/stats/lessons/etc.)
-   - 280 characters MAX per post (non-negotiable)
-4. **Saves final content** to `short form final drafts/` folder
-5. **Archives source material** to `used/` folder
-
-### `/both` - Dual Content Generator
-
-Automated creation of both LinkedIn AND short-form content from same source:
-
-1. **Lists available topics** from the `Clippings/` folder
-2. **Handles user selection** and reads content (including files with special characters)
-3. **Generates LinkedIn post** (2,800 chars) with full formatting rules
-4. **Generates 5 short-form posts** (280 chars each) with time slots
-5. **Saves LinkedIn content** to `final drafts/` folder
-6. **Saves short-form content** to `short form final drafts/` folder
-7. **Archives source material** to `used/` folder (only after BOTH are complete)
-
-### Usage
-- Type `/li` for LinkedIn content only
-- Type `/sf` for short-form social content only  
-- Type `/both` for dual content generation
-Follow the interactive prompts to generate content.
-
-### Files Created
-- `slash_commands.json` - Command configuration
-- `handlers/linkedin_content_generator.js` - Implementation handler (optional)
-
-### Integration
-The slash command integrates all functionality from:
-- `README.md` workflow process
-- `prompts/Linkedin Post.md` template
-- `CLAUDE.md` guidelines
-- File handling for special characters
-
-This maintains the exact same output quality as the manual workflow but provides a single-command experience.
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Claude Code Configuration</title>
+    <style>
+      :root { color-scheme: light dark; }
+      body { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; }
+      .container { max-width: 880px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; }
+      h1,h2,h3 { line-height: 1.25; }
+      pre, code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      pre { overflow: auto; background: rgba(127,127,127,0.12); padding: 0.75rem; border-radius: 6px; }
+      code { background: rgba(127,127,127,0.12); padding: 0.1rem 0.35rem; border-radius: 4px; }
+      ul, ol { padding-left: 1.25rem; }
+      a { color: #0969da; }
+      hr { border: 0; border-top: 1px solid rgba(127,127,127,0.3); margin: 2rem 0; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+<h1>Claude Code Configuration</h1>
+<h2>Slash Commands</h2>
+<h3><code class="notranslate">/li</code> - LinkedIn Content Generator</h3>
+<p>Automated LinkedIn content creation following the established workflow:</p>
+<ol>
+<li><strong>Lists available topics</strong> from the <code class="notranslate">Clippings/</code> folder</li>
+<li><strong>Handles user selection</strong> and reads content (including files with special characters)</li>
+<li><strong>Applies LinkedIn Post template</strong> with all formatting rules:
+<ul>
+<li>5 content styles (Steps, Stats, Mistakes, Lessons, Examples)</li>
+<li>Hook structure (first 200 characters)</li>
+<li>Skimmable headers with alternating formats</li>
+<li>Sell-the-reader introductions</li>
+<li>2,800 character limit (non-negotiable)</li>
+</ul>
+</li>
+<li><strong>Saves final content</strong> to <code class="notranslate">final drafts/</code> folder</li>
+<li><strong>Archives source material</strong> to <code class="notranslate">used/</code> folder</li>
+</ol>
+<h3><code class="notranslate">/sf</code> - Short Form Content Generator</h3>
+<p>Automated short-form social media content creation:</p>
+<ol>
+<li><strong>Lists available topics</strong> from the <code class="notranslate">Clippings/</code> folder</li>
+<li><strong>Handles user selection</strong> and reads content (including files with special characters)</li>
+<li><strong>Generates 5 Twitter/X posts</strong> using Short Form template:
+<ul>
+<li>8:30am PT: Paragraph Style (declarative perspective)</li>
+<li>11am PT: What/How/Why (hook + bullets + insight)</li>
+<li>1pm PT: Listicle (list of tangible items)</li>
+<li>3:30pm PT: Old vs New (comparison format)</li>
+<li>7pm PT: 10 Magical Ways (tips/stats/lessons/etc.)</li>
+<li>280 characters MAX per post (non-negotiable)</li>
+</ul>
+</li>
+<li><strong>Saves final content</strong> to <code class="notranslate">short form final drafts/</code> folder</li>
+<li><strong>Archives source material</strong> to <code class="notranslate">used/</code> folder</li>
+</ol>
+<h3><code class="notranslate">/both</code> - Dual Content Generator</h3>
+<p>Automated creation of both LinkedIn AND short-form content from same source:</p>
+<ol>
+<li><strong>Lists available topics</strong> from the <code class="notranslate">Clippings/</code> folder</li>
+<li><strong>Handles user selection</strong> and reads content (including files with special characters)</li>
+<li><strong>Generates LinkedIn post</strong> (2,800 chars) with full formatting rules</li>
+<li><strong>Generates 5 short-form posts</strong> (280 chars each) with time slots</li>
+<li><strong>Saves LinkedIn content</strong> to <code class="notranslate">final drafts/</code> folder</li>
+<li><strong>Saves short-form content</strong> to <code class="notranslate">short form final drafts/</code> folder</li>
+<li><strong>Archives source material</strong> to <code class="notranslate">used/</code> folder (only after BOTH are complete)</li>
+</ol>
+<h3>Usage</h3>
+<ul>
+<li>Type <code class="notranslate">/li</code> for LinkedIn content only</li>
+<li>Type <code class="notranslate">/sf</code> for short-form social content only</li>
+<li>Type <code class="notranslate">/both</code> for dual content generation<br>
+Follow the interactive prompts to generate content.</li>
+</ul>
+<h3>Files Created</h3>
+<ul>
+<li><code class="notranslate">slash_commands.json</code> - Command configuration</li>
+<li><code class="notranslate">handlers/linkedin_content_generator.js</code> - Implementation handler (optional)</li>
+</ul>
+<h3>Integration</h3>
+<p>The slash command integrates all functionality from:</p>
+<ul>
+<li><code class="notranslate">README.md</code> workflow process</li>
+<li><code class="notranslate">prompts/Linkedin Post.md</code> template</li>
+<li><code class="notranslate">CLAUDE.md</code> guidelines</li>
+<li>File handling for special characters</li>
+</ul>
+<p>This maintains the exact same output quality as the manual workflow but provides a single-command experience.</p>    </div>
+  </body>
+</html>
