@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "a7d078c74b97c853",
+    "type": "split",
+    "children": [
+      {
+        "id": "44918fd435f30437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067990d56e5b1302",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e32cbdeab5e138a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a57fa43ba18305e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "531851202610170e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ee434c659e2f44ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa63662cc7f3d83b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0148b0fbafb5883",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d1ddba4a81a973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30f5759b5b04cc1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months"
+            }
+          },
+          {
+            "id": "1901bcf4a70f941f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months"
+            }
+          },
+          {
+            "id": "3ef22bbe60505f89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "77b0d7702f68ab5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "531851202610170e",
+  "lastOpenFiles": [
+    "used/sustainable_investing_trends.md",
+    "short form final drafts/{test} Sustainable Investing Trends Short Form Posts.md",
+    "Clippings/sustainable_investing_trends.md",
+    "short form final drafts/Saudi Arabia Premium Residency Short Form Posts.md",
+    "final drafts/Saudi Arabia Premium Residency LinkedIn Post.md",
+    "used/Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months.md",
+    "Clippings/Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months.md",
+    "prompts/Short Form.md",
+    "short form final drafts",
+    "final drafts/The Boomer Mirage LinkedIn Post.md",
+    "used/Italy 7 Percent Flat Tax LinkedIn Post.md",
+    "used/The Boomer Mirage.md",
+    "final drafts/Jerz PAN newsletter Short Form.md",
+    "DS.md",
+    "used/Build a Career That Thrives Alongside AI - LinkedIn Post.md",
+    "Clippings/How To Pay Less Tax In Spain With The Beckham Law.md",
+    "Clippings/How to Access Italy’s Little-Known 90% Tax Exemption for Professors and Researchers.md"
+  ]
+}
