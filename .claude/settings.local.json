@@ -2,18 +2,12 @@
   "permissions": {
     "allow": [
       "Bash(mkdir:*)",
-      "Bash(move ideas*.txt Clippings )",
-      "Bash(rmdir:*)",
-      "Bash(mv:*)",
-      "Bash(ls:*)",
-      "Bash(cat:*)",
-      "Bash(dir:*)",
-      "WebSearch",
-      "Bash(echo:*)",
-      "Bash(find:*)",
-      "Bash(powershell:*)",
-      "Bash(move:*)"
+      "Bash(move:*)",
+      "Bash(claude mcp add:*)",
+      "mcp__exa__web_search_exa",
+      "Bash(find:*)"
     ],
-    "deny": []
+    "deny": [],
+    "ask": []
   }
 }

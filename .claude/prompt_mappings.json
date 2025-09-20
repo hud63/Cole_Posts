@@ -1,0 +1,6 @@
+{
+  "li": "prompts/Linkedin Post.md",
+  "sf": "prompts/Short Form.md",
+  "both": ["prompts/Linkedin Post.md", "prompts/Short Form.md"],
+  "bush": ["prompts/Bush Hook Writer.md", "prompts/Bush Post Creator.md"]
+}

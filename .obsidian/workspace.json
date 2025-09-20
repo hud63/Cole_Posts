@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44918fd435f30437",
+        "id": "afb85092a0dc82e5",
         "type": "tabs",
         "children": [
           {
-            "id": "067990d56e5b1302",
+            "id": "e1617f5d1c679f5a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "right": {
     "id": "f0148b0fbafb5883",
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months"
+              "title": "Backlinks"
             }
           },
           {
@@ -167,22 +166,39 @@
   },
   "active": "531851202610170e",
   "lastOpenFiles": [
-    "used/sustainable_investing_trends.md",
-    "short form final drafts/{test} Sustainable Investing Trends Short Form Posts.md",
-    "Clippings/sustainable_investing_trends.md",
-    "short form final drafts/Saudi Arabia Premium Residency Short Form Posts.md",
-    "final drafts/Saudi Arabia Premium Residency LinkedIn Post.md",
-    "used/Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months.md",
-    "Clippings/Saudi Arabia’s Premium Residency Program Draws Over 40,000 Applicants in 18 Months.md",
-    "prompts/Short Form.md",
-    "short form final drafts",
-    "final drafts/The Boomer Mirage LinkedIn Post.md",
-    "used/Italy 7 Percent Flat Tax LinkedIn Post.md",
-    "used/The Boomer Mirage.md",
-    "final drafts/Jerz PAN newsletter Short Form.md",
-    "DS.md",
-    "used/Build a Career That Thrives Alongside AI - LinkedIn Post.md",
-    "Clippings/How To Pay Less Tax In Spain With The Beckham Law.md",
-    "Clippings/How to Access Italy’s Little-Known 90% Tax Exemption for Professors and Researchers.md"
+    "final posted/The 12 Best ChatGPT Prompts for Tax Compliance Used by Real CPAs_bush_processed_20250919-140833.md",
+    "final posted/12_Tax-Free_Countries_Where_American_Retirees_Live_Like_Royalty_bush_processed_2025-09-19-150000.md",
+    "final posted/Italy_as_a_destination_for_UHNWIs_bush_processed_2025-09-19-143000.md",
+    "final posted/Italy Entry Simplified LinkedIn Post.md",
+    "final posted/20250916_182328.png",
+    "final posted/20250916_182328_content.md",
+    "final posted/20250916_182328_research.md",
+    "final posted/20250916_182328_prompt.md",
+    "Clippings/Where to sell private equity with no tax.md",
+    "used/The 12 Best ChatGPT Prompts for Tax Compliance Used by Real CPAs.md",
+    "used/12 Tax-Free Countries Where American Retirees Live Like Royalty.md",
+    "Clippings/12 Tax-Free Countries Where American Retirees Live Like Royalty.md",
+    "CLAUDE.md",
+    "short form final drafts/Italy Entry Simplified Short Form.md",
+    "used/Italy Entry Simplified - IACOVAZZI GLOBAL BUSINESS LAWYERS.md",
+    "Clippings/Italy Entry Simplified - IACOVAZZI GLOBAL BUSINESS LAWYERS.md",
+    "used/Italy as a destination for UHNWIs.md",
+    "Clippings/Italy as a destination for UHNWIs.md",
+    "Clippings/The AI-Native Office Suite - Can AI Do Work For You.md",
+    "Clippings/The 12 Best ChatGPT Prompts for Tax Compliance Used by Real CPAs.md",
+    "Clippings/OpenAI expects business to burn $115 billion through 2029, The Information reports.md",
+    "Clippings/I earn £185k a year and pick my own hours - I have no degree and pay no taxes.md",
+    "Clippings/How Do I Get Residency Through My Business Setup.md",
+    "Clippings/fintech_disruption.md",
+    "Clippings/cryptocurrency_regulation.md",
+    "used/Unlocking Europe The Bulgaria Trade Representative Office Visa – Your Hidden Path to EU Residency.md",
+    "bush_final/20250914_175856.png",
+    "bush_final/2025-09-13-claude-code-features.png",
+    "bush_final",
+    "final posted",
+    "final drafts/How to Access Italy's Little-Known 90% Tax Exemption for Professors and Researchers LinkedIn Post.md.tmp.15844.1756650117819",
+    "CLAUDE.md.tmp.15844.1756649938564",
+    "final drafts/How To Pay Less Tax In Spain With The Beckham Law LinkedIn Post.md.tmp.11584.1756639847061",
+    "short form final drafts"
   ]
 }

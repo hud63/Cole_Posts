@@ -9,7 +9,6 @@ description: "Your Secret Door to Europe: The Bulgaria TRO Visa. Have you been s
 tags:
   - "clippings"
 ---
-<video src="https://39696012.fs1.hubspotusercontent-na1.net/hubfs/39696012/Social%20Media/90%20sec%20Bulgaria%20TRO.mp4" controls=""></video>
 
 ### Your Secret Door to Europe: The Bulgaria TRO Visa
 
@@ -42,20 +41,20 @@ If you’re:
 
 then this might be exactly what you’ve been searching for
 
-![](https://outboundinvestment.com/wp-content/uploads/2025/06/banner-4.webp)
 
-![](https://outboundinvestment.com/wp-content/uploads/2025/08/900x600-website-image-58-480x300.webp)
+
+
 
 Once a symbol of ultimate global access, the U.S. passport has now slipped to 10th place in the Henley Passport Index — its
 
-![](https://outboundinvestment.com/wp-content/uploads/2025/08/900x600-website-image-57-480x300.webp)
+
 
 São Tomé and Príncipe, a quiet island nation off the West African coast, has officially introduced its Citizenship by Investment (CBI) program, marking
 
-![](https://outboundinvestment.com/wp-content/uploads/2025/08/900x600-website-image-56-480x300.webp)
+
 
 For many globally minded families, a second residency or citizenship isn’t just about fiscal advantages or travel, it’s a life strategy. Beyond financial
 
-![](https://outboundinvestment.com/wp-content/uploads/2025/08/900x600-website-image-55-480x300.webp)
+
 
 On July 31, 2025, Argentina formally approved its Citizenship by Investment program via Decree 524/2025, published in the official gazette. This law creates
