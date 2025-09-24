@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "746e411c732dcb2a",
+        "id": "8dd5f653a169c612",
         "type": "tabs",
         "children": [
           {
-            "id": "2eacf6295ab2e25f",
+            "id": "1ba0bb5e26c6ff05",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "2eacf6295ab2e25f",
+  "active": "1ba0bb5e26c6ff05",
   "lastOpenFiles": [
+    "README - Copy.md",
+    "VMoney_Slash Command Template.md",
+    "README.md",
+    "lian_final/Lian_AI_Was_Supposed_to_Help_Juniors_Shine.md",
+    "liz_final/Liz_In_Defense_of_AI_Evals_for_Everyone.md",
+    "vanderbilt_final/Vanderbilt_Irish_Citizenship_By_Descent.md",
+    "used/Irish citizenship by descent – the popular application for foreign birth registration.md",
+    "used/AI was supposed to help juniors shine. Why does it mostly make seniors stronger_.md",
     "Clippings/People Are Getting DENIED Mexico Residency Because of This.md",
     "Clippings/The 2 TYPES of Visa to Come To Italy and Pay LESS TAXES.md",
     "Clippings/Surprising Pathways to INSTANT Citizenship of Austria.md",
@@ -184,15 +192,7 @@
     "Clippings/fintech_disruption.md",
     "erica_final/Erica_Test_Property_Taxes.md",
     "erica_final/Erica_Property_Taxes_Are_Theft.md",
-    "used/Property Taxes Are Theft.md",
-    "final posted/The 12 Best ChatGPT Prompts for Tax Compliance Used by Real CPAs_bush_processed_20250919-140833.md",
-    "final posted/12_Tax-Free_Countries_Where_American_Retirees_Live_Like_Royalty_bush_processed_2025-09-19-150000.md",
-    "final posted/Italy_as_a_destination_for_UHNWIs_bush_processed_2025-09-19-143000.md",
-    "final posted/Italy Entry Simplified LinkedIn Post.md",
     "final posted/20250916_182328.png",
-    "final posted/20250916_182328_content.md",
-    "final posted/20250916_182328_research.md",
-    "final posted/20250916_182328_prompt.md",
     "bush_final/20250914_175856.png",
     "bush_final/2025-09-13-claude-code-features.png",
     "bush_final",
