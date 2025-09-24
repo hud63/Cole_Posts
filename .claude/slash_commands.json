@@ -19,6 +19,26 @@
       "name": "bush",
       "description": "Sequential dual-prompt content generator - processes through Bush Hook Writer and Bush Post Creator",
       "prompt": "Execute workflow from bush.md"
+    },
+    {
+      "name": "erica",
+      "description": "Generate 4 distinct social media posts using Erica frameworks - creates Absurdist Conspiracy, Problem-Agitation-Solution, Declarative Expertise, and Vulnerable Self-Reflection posts",
+      "prompt": "Execute workflow from erica.md"
+    },
+    {
+      "name": "lian",
+      "description": "Generate LinkedIn thought leadership content using Lian frameworks - creates posts using Personal Stories & Life Lessons, LinkedIn Growth Tactics, Business Strategy & Frameworks, Psychology & Human Behavior, or Contrarian Reality Checks formats",
+      "prompt": "Execute workflow from lian.md"
+    },
+    {
+      "name": "liz",
+      "description": "Generate contrarian marketing thought leadership content - creates posts using Problem Reframing, Direct Advisory, Strategic Perspective, or Satirical Commentary formats that challenge industry norms",
+      "prompt": "Execute workflow from liz.md"
+    },
+    {
+      "name": "vanderbilt",
+      "description": "Generate viral international opportunity content - creates posts about residency programs, citizenship pathways, tax optimization, and global mobility solutions using 10 specialized formats",
+      "prompt": "Execute workflow from vanderbilt.md"
     }
   ]
 }

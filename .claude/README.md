@@ -45,10 +45,70 @@ Automated creation of both LinkedIn AND short-form content from same source:
 6. **Saves short-form content** to `short form final drafts/` folder
 7. **Archives source material** to `used/` folder (only after BOTH are complete)
 
+### `/bush` - Bush Content Generator
+
+Sequential dual-prompt content generation:
+
+1. **Lists available topics** from the `Clippings/` folder
+2. **Handles user selection** and reads content (including files with special characters)
+3. **Processes through dual prompts**: Bush Hook Writer + Bush Post Creator
+4. **Generates combined output**: 11 LinkedIn hooks + 3 posts (Framework, Story, Listicle)
+5. **Saves final content** to `bush_final/` folder
+6. **Archives source material** to `used/` folder
+
+### `/erica` - Erica Framework Generator
+
+Automated generation of 4 distinct social media posts using Erica frameworks:
+
+1. **Lists available topics** from the `Clippings/` folder
+2. **Handles user selection** and reads content (including files with special characters)
+3. **Generates 4 framework posts**: Absurdist Conspiracy, Problem-Agitation-Solution, Declarative Expertise, Vulnerable Self-Reflection
+4. **Character limit**: 2,800 characters MAX per post (non-negotiable)
+5. **Saves final content** to `erica_final/` folder
+6. **Archives source material** to `used/` folder
+
+### `/lian` - Lian Content Generator
+
+LinkedIn thought leadership content using Lian frameworks:
+
+1. **Lists available topics** from the `Clippings/` folder
+2. **Handles user selection** and reads content (including files with special characters)
+3. **Generates LinkedIn content** using one of 5 formats: Personal Stories & Life Lessons, LinkedIn Growth Tactics, Business Strategy & Frameworks, Psychology & Human Behavior, or Contrarian Reality Checks
+4. **Character limit**: 2,800 characters MAX per post (non-negotiable)
+5. **Saves final content** to `lian_final/` folder
+6. **Archives source material** to `used/` folder
+
+### `/liz` - Liz Content Generator
+
+Contrarian marketing thought leadership content:
+
+1. **Lists available topics** from the `Clippings/` folder
+2. **Handles user selection** and reads content (including files with special characters)
+3. **Generates contrarian content** using one of 4 formats: Problem Reframing, Direct Advisory, Strategic Perspective, or Satirical Commentary that challenges industry norms
+4. **Character limit**: 150-250 words to optimize for LinkedIn engagement
+5. **Saves final content** to `liz_final/` folder
+6. **Archives source material** to `used/` folder
+
+### `/vanderbilt` - Vanderbilt Content Generator
+
+Viral international opportunity content:
+
+1. **Lists available topics** from the `Clippings/` folder
+2. **Handles user selection** and reads content (including files with special characters)
+3. **Generates viral LinkedIn content** using one of 10 formats: Investment/Business Residency, Citizenship by Descent, Retirement Visa, Tax Optimization, Digital Nomad/Remote Work Visas, Passive Income/Non-Lucrative Visas, Offshore Banking Services, Special Opportunities & Time-Limited Programs, Business/Entrepreneur Visas, or Educational/Informational posts
+4. **Character limit**: 50-150 words to maintain viral potential while providing substance
+5. **Saves final content** to `vanderbilt_final/` folder
+6. **Archives source material** to `used/` folder
+
 ### Usage
 - Type `/li` for LinkedIn content only
-- Type `/sf` for short-form social content only  
+- Type `/sf` for short-form social content only
 - Type `/both` for dual content generation
+- Type `/bush` for Bush dual-prompt content generation
+- Type `/erica` for Erica framework content generation
+- Type `/lian` for Lian LinkedIn thought leadership content
+- Type `/liz` for Liz contrarian marketing content
+- Type `/vanderbilt` for Vanderbilt international opportunity content
 Follow the interactive prompts to generate content.
 
 ### Files Created

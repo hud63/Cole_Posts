@@ -2,5 +2,9 @@
   "li": "prompts/Linkedin Post.md",
   "sf": "prompts/Short Form.md",
   "both": ["prompts/Linkedin Post.md", "prompts/Short Form.md"],
-  "bush": ["prompts/Bush Hook Writer.md", "prompts/Bush Post Creator.md"]
+  "bush": ["prompts/Bush Hook Writer.md", "prompts/Bush Post Creator.md"],
+  "erica": "prompts/Erica.md",
+  "lian": "prompts/Lian.md",
+  "liz": "prompts/Liz.md",
+  "vanderbilt": "prompts/Vanderbilt.md"
 }
