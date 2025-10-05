@@ -5,7 +5,17 @@
       "Bash(move:*)",
       "Bash(claude mcp add:*)",
       "mcp__exa__web_search_exa",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(git ls-tree:*)",
+      "Read(//c/$Recycle.Bin/**)",
+      "Bash(powershell.exe:*)",
+      "Bash(git checkout:*)",
+      "Bash(git log:*)",
+      "Read(//c/Users/User/Downloads/General/**)",
+      "Read(//c/Users/User/AppData/**)",
+      "Bash(test:*)",
+      "Bash(git stash show:*)",
+      "Read(//c/Users/User/**)"
     ],
     "deny": [],
     "ask": []
