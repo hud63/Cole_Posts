@@ -92,15 +92,3 @@ Domestic Asset Protection Trusts
 A few U.S. states allow domestic self-settled asset protection trusts. These can be less costly than offshore trusts and keep assets in the U.S., but their effectiveness is not as time-tested – especially if you reside in a non-DAPT state.
 
 Courts have been inconsistent in honoring these trusts for out-of-state debtors. Still, for moderate net worth individuals, a domestic trust in a favorable state might be a compromise solution. At a minimum, they may deter a non-aggressive creditor.
-
-Gideon Alper
-
-About the Author
-
-Gideon Alper is a nationally recognized expert in asset protection planning. He has been quoted by major media publications as a leading authority in Florida asset protection and offshore trust formation. Gideon graduated with honors from Emory University Law School and has been practicing law for over 15 years.
-
-Gideon and the Alper Law firm have advised thousands of clients about how to protect their assets from creditors.
-
-Sign up for the latest information.
-
-Get regular updates from our blog, where we discuss asset protection techniques and answer common questions.

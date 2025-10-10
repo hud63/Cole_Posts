@@ -9,10 +9,6 @@ description: "I live in Europe, and I’m an exec for US based tech company. For
 tags:
   - "clippings"
 ---
-[![](https://www.offshorecorptalk.com/data/balive/168a840e8956a7.webp)](https://monetry-consulting.com/)
-
-#### bandanna
-
 ##### Active Member
 
 I live in Europe, and I’m an exec for US based tech company. For the company I act as contractor not employee.  
