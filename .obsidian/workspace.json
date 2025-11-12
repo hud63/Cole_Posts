@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7a64418ee3ce7c50",
+        "id": "20665c01609576a8",
         "type": "tabs",
         "children": [
           {
-            "id": "646dd14b531eafd7",
+            "id": "23d6e12c29ec788a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "vanderbilt_final/Vanderbilt_Italy_Digital_Nomad_Tax_Advantages.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vanderbilt_Italy_Digital_Nomad_Tax_Advantages"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "student visa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 222.5
   },
   "right": {
     "id": "f0148b0fbafb5883",
@@ -164,42 +168,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "646dd14b531eafd7",
+  "active": "23d6e12c29ec788a",
   "lastOpenFiles": [
-    "Clippings/Here are 4 top overseas havens where US retirees can live rich on Social Security — is time to start planning your escape.md",
-    "used/9 Offshore Company Benefits (& The Risks)  2026 Guide.md",
-    "bush_final/9_Offshore_Company_Benefits_bush_processed_2025-10-10-070329.md",
-    "bush_final",
-    "Clippings/Tax breaks in Sicily a new opportunity for foreigners looking to relocate.md",
-    "Clippings/Salesforce launches AI 'trust layer' to tackle enterprise deployment failures plaguing 80% of projects.md",
-    "final posted/Vanderbilt_Worlds_Best_Country_to_Retire.md",
-    "used/World's best country to retire to is 3 hours from UK with 300 days of sunshine.md",
-    "final posted/Court Case Citizenship Skip the Consulate Nightmare.md",
-    "Clippings/Solo401k.md",
-    "Clippings/MIT Finds 95% Of GenAI Pilots Fail Because Companies Avoid Friction.md",
-    "Clippings/Lombard Loan.md",
-    "vanderbilt_final/TrumpCard.md",
-    "Clippings/Solo 401k.md",
-    "Clippings/World's best country to retire to is 3 hours from UK with 300 days of sunshine.md",
-    "Clippings/The AI Race Verdict America's Grid Can't Power The Future.md",
-    "Clippings/Where to sell private equity with no tax.md",
-    "Clippings/What Is the Minimum Net Worth for an Offshore Trust to be Worth It.md",
-    "Clippings/The US workers escaping for a career overseas - Adobe cloud storage.md",
-    "Clippings/The 2 TYPES of Visa to Come To Italy and Pay LESS TAXES.md",
-    "Clippings/Irish Citizenship By Descent – The Popular Application For Foreign Birth Registration.md",
-    "Clippings/International Business Companies (IBCs).md",
-    "Clippings/How to Move to Italy in 2025 Step-by-Step Guide to Italy’s Elective Residency Visa - Soland.md",
-    "Clippings/fintech_disruption.md",
-    "Clippings/cryptocurrency_regulation.md",
-    "Clippings/94% of expats say they have a good life in Panama, recent survey shows 'It has a perfect mix of decent infrastructure at affordable prices'.md",
-    "Clippings/9 Offshore Company Benefits (& The Risks)  2026 Guide.md",
+    "vanderbilt_final/Vanderbilt_Italy_Digital_Nomad_Tax_Advantages.md.tmp.11828.1762947608576",
+    "vanderbilt_final/Vanderbilt_Trentino_100k_Grant_Revival.md",
+    "Clippings/Italy's tax advantages.md",
+    "used/Italy's tax advantages.md",
+    "vanderbilt_final/Vanderbilt_Italy_Digital_Nomad_Tax_Advantages.md",
+    "vanderbilt_final/Vanderbilt_Trentino_100k_Grant_Revival.md.tmp.11828.1762946105010",
+    "Clippings/Trentino’s €100k Grant To Revive Its Sleepy Villages Reopens  Magic Towns.md",
+    "used/Trentino’s €100k Grant To Revive Its Sleepy Villages Reopens  Magic Towns.md",
+    "vanderbilt_final/Vanderbilt_Bulgaria_10_Percent_Tax.md",
+    "Clippings/The Estonian+UAE salary strategy (possibly 0%).md",
+    "vanderbilt_final/Vanderbilt_Nicaragua_Tax_Free_Living.md",
+    "Clippings/10% Tax and a €300 Visa Why Bulgaria is a Sleeper Expat Gem.md",
+    "used/10% Tax and a €300 Visa Why Bulgaria is a Sleeper Expat Gem.md",
+    "vanderbilt_final/Vanderbilt_Italy_Low_Tax_Digital_Nomads.md",
+    "Clippings/Why It’s Time to Put Nicaragua Back on Your Radar.md",
+    "used/Why It’s Time to Put Nicaragua Back on Your Radar.md",
+    "Clippings/Italy's Low-Tax Regimes The Ultimate Guide for Digital Nomads in 2025.md",
+    "used/Italy's Low-Tax Regimes The Ultimate Guide for Digital Nomads in 2025.md",
+    "Clippings/The Ex-Pat Escape Plan.md",
+    "vanderbilt_final/Vanderbilt_5_Best_Countries_Starting_Business.md",
+    "vanderbilt_final/Vanderbilt_Thailand_Medical_Tourism_Hip_Replacement.md",
+    "Clippings/The 5 Best Overseas Countries for Starting a Business.md",
+    "used/The 5 Best Overseas Countries for Starting a Business.md",
+    "Clippings/What Most People Get Wrong About Mexico (and 3 Destinations to Consider).md",
+    "vanderbilt_final/Vanderbilt_China_K_Visa_No_Job_Offer.md",
+    "Clippings/How I Scored A 300% Discount On A Hip Replacement.md",
+    "used/How I Scored A 300% Discount On A Hip Replacement.md",
+    "vanderbilt_final/Vanderbilt_China_K_Visa_No_Job_Offer.md.tmp.25348.1762858274281",
+    "vanderbilt_final/Vanderbilt_Italy_Student_Visa.md.tmp.15516.1762341948867",
+    "vanderbilt_final/Vanderbilt_Italy_Student_Visa.md.tmp.15516.1762341939906",
+    "vanderbilt_final/Vanderbilt_Costa_Rica_Panama_Comparison.md.tmp.13236.1762257746245",
+    "vanderbilt_final/Vanderbilt_Costa_Rica_Panama_Comparison.md.tmp.13236.1762257701285",
+    "vanderbilt_final/Vanderbilt_Costa_Rica_Panama_Comparison.md.tmp.13236.1762257693836",
+    "vanderbilt_final/Vanderbilt_Costa_Rica_Panama_Comparison.md.tmp.13236.1762257647402",
+    "vanderbilt_final/Vanderbilt_Costa_Rica_Panama_Comparison.md.tmp.13236.1762257630685",
+    "vanderbilt_final/Vanderbilt_Costa_Rica_Panama_Comparison.md.tmp.13236.1762257533315",
     "final posted/20250916_182328.png",
     "bush_final/20250914_175856.png",
-    "bush_final/2025-09-13-claude-code-features.png",
-    "final posted",
-    "final drafts/How to Access Italy's Little-Known 90% Tax Exemption for Professors and Researchers LinkedIn Post.md.tmp.15844.1756650117819",
-    "CLAUDE.md.tmp.15844.1756649938564",
-    "final drafts/How To Pay Less Tax In Spain With The Beckham Law LinkedIn Post.md.tmp.11584.1756639847061",
-    "short form final drafts"
+    "bush_final/2025-09-13-claude-code-features.png"
   ]
 }
